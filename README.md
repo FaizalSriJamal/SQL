@@ -1,2 +1,2 @@
 # SQL
-A repo of SQL codes
+This is a repository of SQL codes I have practised to get my hands dirty(or wet my feet).
